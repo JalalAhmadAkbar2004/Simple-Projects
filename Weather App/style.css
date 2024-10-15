@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+ }
+ 
+ .weather-info {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+ }
+ 
+ img {
+    max-width: 50px; /* Adjust size as needed */
+ }
+ 

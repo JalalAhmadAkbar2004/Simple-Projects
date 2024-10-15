@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+
+form {
+    margin: 20px;
+}
+
+label  {
+    display: block;
+}
+input{
+    display: block;
+    padding: 2px;
+    border-radius: 20px;
+    background-color: dodgerblue;
+}
